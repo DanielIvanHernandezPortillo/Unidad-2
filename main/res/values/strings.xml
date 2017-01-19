@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Unidad1</string>
+    <string name="opcion_1">Opcion 1</string>
+    <string name="opcion_2">Opcion 2</string>
+    <string name="variable_x">Variable X</string>
+    <string name="variable_y">Variable Y</string>
+    <string name="calcular">Calcular</string>
+    <string name="_2xy_x_y_xy_2_2y_x">(2xy-x/y)(xy^2+2y/x)</string>
+    <string name="x_2_1_x_x_3_2x">(x^2-1/x)(x^3+2x)</string>
+</resources>
